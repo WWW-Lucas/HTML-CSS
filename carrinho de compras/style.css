@@ -1,0 +1,39 @@
+.container-sm {
+    background-color: rgb(223, 217, 217);
+    height: 900px;
+    border-radius: 4%;
+    margin:  50px;
+}
+
+h1, p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container-sm img{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.container-sm h1{
+    font-size: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    text-align: left;
+    color: rgb(49, 54, 58);
+}
+
+.container-sm p{
+    margin-left: 110px;
+    font-size: 45px;
+    font-family: getaway;
+}
+
+@font-face{
+    font-family: getaway;
+    src: url(getaway_1.otf) format('opentype');
+    font-weight: normal;
+}
+
+#logo {
+    
+}
